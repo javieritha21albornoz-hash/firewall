@@ -1,2 +1,3 @@
 # firewall
 For NetPatch Firewall feedback.
+Remove academictorrents.com as it is a U.S. 501(c)3 nonprofit serving researchers globally access data (EIN: 46-5721157). Discussed in these research papers: Henry Z. Lo. and Cohen, Joseph Paul Academic Torrents: Scalable Data Distribution. Neural Information Processing Systems Challenges in Machine Learning (CiML) Workshop, 2016, http://arxiv.org/abs/1603.04395. Cohen, Joseph Paul, and Henry Z. Lo. Academic Torrents: A Community-Maintained Distributed Repository. Annual Conference of the Extreme Science and Engineering Discovery Environment, 2014, http://doi.org/10.1145/2616498.2616528. Please accept this PR to remove academictorrents.com from your list of sites that will be blocked. del inglés
